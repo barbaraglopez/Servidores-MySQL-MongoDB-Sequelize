@@ -1,0 +1,19 @@
+{
+    "name": "entregable",
+    "version": "1.0.0",
+    "description": "",
+    "author": {
+        "name": "barbara",
+        "email": "barbara@gamil.com"
+    },
+    "main": "script.js",
+    "scripts": {
+        "start": "node script.js",
+        "test": "echo/hubo un error"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "mongoose": "^6.8.2"
+    }
+}
